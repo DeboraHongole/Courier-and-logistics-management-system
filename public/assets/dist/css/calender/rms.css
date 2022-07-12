@@ -1,0 +1,120 @@
+html, body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.7;
+    background-color: rgb(248,248,248);
+}
+h1, h2, h3, h4{
+    font-family: 'Abel', sans-serif;   
+}
+b, strong{
+    font-weight: 400;
+}
+.carousel-caption{
+    z-index: 10;
+}
+.carousel-inner > .item > img{
+    position: absolute;
+    top: 50px;
+    left: 0;
+    min-width: 100%;
+    height: auto;
+}
+.carousel-inner > .item{
+    height: 300px;   
+}
+
+.intro-block{
+    background: white;
+    padding: 1px 15px 30px 20px;
+    color: black;
+}
+
+}
+.tpad{
+    padding-top: 20px;
+}
+.padded{
+    padding: 100px 15px;
+}
+
+hr {
+    border-top: 1px solid #c9c9c9;   
+}
+.info{
+   
+    padding: 80px 0;
+}
+.info small{
+    color: #eeefe9;   
+}
+.info a{
+    color: #fff;   
+}
+.info a:hover{
+    color: #333;   
+}
+.tab-pane{
+    padding: 40px 10px 0 10px;
+}
+
+.ft_space{
+    padding: 0 10px;   
+}
+
+.sidebar{
+    background-color: white;  
+}
+.bpad{ margin-bottom: 30px;}
+
+@media(min-width: 768px){
+.carousel-inner > .item{
+    height: 700px;   
+}
+.map {
+    padding-top: 50px;
+    height: 550px;
+    width: 100%
+}
+.info {
+    background-color: #7d7d7d;
+    padding: 2px;
+}
+.footer1{
+background-color: #282727;
+padding: 20px;
+    
+}
+.footer{
+background-color:   silver;
+padding: 20px;
+    
+}
+.footer2{
+background-color: silver;
+padding: 20px;
+    
+}
+ .footer1 a, .footer1 h1, .footer1 p{
+    color: #fff;   
+}
+.tab-content p {
+    color: white;
+}
+blockquote{color:  white;}
+.jovial {
+background-color: white;}
+.alow {float: right;}
+.footer2 p {text-align: center;}
+.footer2 a {color: white;}
+.joza {
+border: 2px #e4e4e4 solid;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 0 6px #ccc;
+  background-color: #fff;}
+  #add {
+  padding-top: 80px;}
+  
+    
